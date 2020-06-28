@@ -1,0 +1,78 @@
+.btn-primary{margin-bottom: 10px;}
+.btn-primary a{color: #fff;}
+.navbar{margin-top:2px;margin-bottom: 15px;}
+.navbar-brand{color: #fff !important;}
+.navbar-nav{}
+.navbar-nav a {
+    background: #eee;
+    padding: 3px 8px;
+    border-radius: 5px;
+    color: #000;
+    border: 1px solid #000;
+    margin-right: 3px;
+}
+.navbar-nav a:hover{
+    text-decoration: none;
+    box-shadow: 0px 0px 2px #000 inset;
+    color: #333;
+}
+.searchForm{width: 450px;}
+.searchForm .form-control{width:70%;float:right;}
+.searchForm button{float:right;}
+.form{
+    margin:10px auto;
+    background: #eee;
+    width:70%;
+    padding: 15px;
+    border-radius: 5px;
+}
+.form h4{
+    text-align: center;
+}
+.form input{
+    width:80%;
+    margin:10px auto;
+    display: block;
+    padding: 7px;
+}
+.form textarea{
+    width:80%;display: block;margin:10px auto;}
+.form button {
+    margin: 0 auto;
+    display: block;
+    background: #007bff;
+    color: #fff;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+}
+.btnMyBlue {
+    color: #fff;
+    background: #007bff;
+    padding: 5px 15px;
+    margin: 10px 0;
+    display: block;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+}
+.floatRight{float: right;}
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background: #fff;
+}
+footer .container {
+    border-top: 1px solid #cfcfcf;
+    padding-top: 15px;
+}
+.content{padding-bottom: 100px;}
+.mainPage{}
+.mainPage p{text-align: center;font-size: 17px;}
+.mainPage h5{text-align: center;}
+.users {
+    background-color: #a3d295;
+}
+.card{margin-bottom: 10px;}
+.countLikes{float: left;display: block;margin:0 5px;}
