@@ -1,6 +1,4 @@
-# myblogjs
-
-Js single page application (SPA) project
+# Js (SPA) project
 
 Functionality:
 
