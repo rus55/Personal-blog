@@ -1,16 +1,12 @@
 # myblogjs
 
-Проект по созданию одностраничного приложения на js
+Js single page application (SPA) project
 
-Функционал :
-- Для пользователей : создание, удаление, редактирование
-- Для статей : создание, удаление, редактирование
-- Для комментариев : создание, удаление, редактирование
+Functionality:
 
-На сайте может зарегистрироваться любой пользователь и писать статьи, делать комментарии и ставить лайки.
-Писать комментарии и ставить лайки может только авторизованный пользователь.
-Редактировать и удалять статьи и комментарии может только авторизованный пользователь (только свои) или админ.
+- For users: create, delete, edit
+- For articles: create, delete, edit
+- For comments: create, delete, edit
+- Any user can register on the site and write articles, make comments and put likes. Only an authorized user can write comments and put likes. Only an authorized user (only his own) or an admin can edit and delete articles and comments.
 
-Также на сайте реализован поиск по тексту статей.
-
-
+Also, the site implements a search in the text of articles.
